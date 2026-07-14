@@ -19,12 +19,12 @@ Grupos_26_27:
       - text: "1º GEI UDC 26/27"
         url: "https://chat.whatsapp.com/BCwPv92crJEKEBOkW3humQ"
         icon: "./assets/img/icons/brand-whatsapp.svg"
-      # - text: "1º GCED UDC 26/27"
-      #   url: ""
-      #   icon: "./assets/img/icons/brand-whatsapp.svg"
-      # - text: "1º GIA UDC 26/27"
-      #   url: ""
-      #   icon: "./assets/img/icons/brand-whatsapp.svg"
+      - text: "1º GCED UDC 26/27"
+        url: "https://chat.whatsapp.com/GO3cmjLknPz8g46R1w2AwS"
+        icon: "./assets/img/icons/brand-whatsapp.svg"
+      - text: "1º GIA UDC 26/27"
+        url: "https://chat.whatsapp.com/Ix9MhdXTCdv2Usp6xzSw2r"
+        icon: "./assets/img/icons/brand-whatsapp.svg"
 
 Destacado:
   name: "⭐ Destacado ⭐"
@@ -176,7 +176,7 @@ Másteres:
     - text: "MUNICS UDC - UVigo 25/27"
       url: "https://chat.whatsapp.com/GEWvyPBA6uLIeypmsmaY4C"
       icon: "./assets/img/icons/brand-whatsapp.svg"
-    - text: "Máster en Patrimonio Cultural Digital 25/27"
+    - text: "Máster en Patrimonio Cultural Digital UDC 25/27"
       url: "https://chat.whatsapp.com/HQbUZxRu3vy36YQ943EdUN"
       icon: "./assets/img/icons/brand-whatsapp.svg"
 
