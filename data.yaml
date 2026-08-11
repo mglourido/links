@@ -180,12 +180,12 @@ Másteres:
       url: "https://chat.whatsapp.com/HQbUZxRu3vy36YQ943EdUN"
       icon: "./assets/img/icons/brand-whatsapp.svg"
 
-Recursos:
-  name: "💡 Recursos 💡"
-  links:
-    - text: "MEGA"
-      url: "https://mega.nz/folder/F5YXUahC#XygCDmb-l05BZQFJWWvJoQ"
-      icon: "https://mega.nz/favicon.ico"
+# Recursos:
+#   name: "💡 Recursos 💡"
+#   links:
+#     - text: ""
+#       url: ""
+#       icon: ""
 
 Comunidades:
   name: "👥 Comunidades 👥"
