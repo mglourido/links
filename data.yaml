@@ -30,7 +30,7 @@ Destacado:
   name: "⭐ Destacado ⭐"
   links:
     - text: "Manual de Supervivencia da FIC"
-      url: "https://www.fic.udc.es/sites/default/files/documentos/manual_de_supervivencia_de_la_fic.pdf"
+      url: "https://raw.githubusercontent.com/danielfeitopin/manual-supervivencia-fic/main/Manual%20de%20supervivencia%20de%20la%20FIC%202026.pdf"
       icon: "./assets/img/icons/file-description.svg"
 
     - text: "PAT (Plan de Acción Tutorial)"
